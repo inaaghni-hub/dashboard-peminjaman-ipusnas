@@ -19,5 +19,6 @@ Halaman statistik peminjaman iPusnas tahun 2026 (Januari sampai Oktober), dibang
 ## Catatan data
 
 - Februari 2026 tidak ada dalam laporan sumber, jadi ditandai sebagai tidak ada data, bukan nol.
+- November 2026 belum ada datanya: bulan itu masih berjalan dan iPusnas terkena serangan sehingga layanannya tidak dapat diakses. Desember 2026 belum dimulai.
 - Kolom pengarang kosong pada seluruh laporan sumber, sehingga nama pengarang tidak ditampilkan.
 - Semua rincian (per bulan, per subjek, per ePustaka, per judul) berjumlah tepat sama dengan total peminjaman pada laporan: 2.497.073.
